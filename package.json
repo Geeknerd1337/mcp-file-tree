@@ -1,0 +1,24 @@
+{
+  "name": "mcp-file-tree",
+  "version": "0.0.1",
+  "description": "An MCP which gives Cursor context of the file tree in your work space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "cursor",
+    "file",
+    "tree"
+  ],
+  "author": "Joshua Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.2",
+    "typescript": "^5.8.3"
+  }
+}
